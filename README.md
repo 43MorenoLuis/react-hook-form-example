@@ -33,6 +33,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Guide
-github forum https://github.com/react-hook-form/react-hook-form/discussions/3179
-codesandbox https://codesandbox.io/s/watchusewatch-calc-tckxm?file=/src/fieldArray.js:207-238
+## Find Example
+
+Github Forum https://github.com/react-hook-form/react-hook-form/discussions/3179.
+
+CodeSandbox https://codesandbox.io/s/watchusewatch-calc-tckxm?file=/src/fieldArray.js:207-238
